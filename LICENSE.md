@@ -1,4 +1,4 @@
-# 
+# vip bybit trading bot scripts is the best bybit trading bot scripts with perpetual-trading and auto-leverage. Safe, reliable, and optimized for CEX, DEX, and algorithmic trading
 
 
 
